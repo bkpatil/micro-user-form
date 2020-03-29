@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "micro-user-form": [
+        "dist/micro-user-form"
+      ],
+      "micro-user-form/*": [
+        "dist/micro-user-form/*"
+      ]
+    }
   }
 }
